@@ -1,1 +1,3 @@
 hi hello 
+int a = 7
+print(a)
